@@ -1,2 +1,2 @@
 # Git_Repository
-swaroop Bagal
+name = swaroop Bagal
